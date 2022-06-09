@@ -7,4 +7,4 @@
 
 ## Example
 
-![](results/video.mp4)
+![](results/video.gif)
